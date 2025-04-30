@@ -2,9 +2,10 @@
 
 Group Members:
 
-- Josef Karpinski
-- Alexander Manos
-- Samuel Cultrera
-- Malcolm Ferguson
+- Josef Karpinski (jjk21004)
+- Alexander Manos (agm21019)
+- Samuel Cultrera (sac19019)
+- Malcolm Ferguson (mrf20004)
+
 
 ## Project Overview:
