@@ -4,7 +4,7 @@ Group Members:
 
 - Josef Karpinski
 - Alexander Manos
-- Sam Cultrera
+- Samuel Cultrera
 - Malcolm Ferguson
 
 ## Project Overview:
